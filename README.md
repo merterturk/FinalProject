@@ -1,5 +1,4 @@
 ## Engin Demiroğ hocamızın yazılım geliştirici yetiştirme kampında yaptığımız proje
-
 ## Kampta Yapılanlar
 ### C#
 ### Web Api
@@ -12,7 +11,7 @@
 ### Dependecy Injection
 ### Fluent Validation
 ### Result-Data Result Yapıları
-###Generic Repository Design Pattern
+### Generic Repository Design Pattern
 ### Autofac
 ### Aspect Oriented Programming
 ### Cross cutting corcerns
