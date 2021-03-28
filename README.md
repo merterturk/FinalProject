@@ -1,10 +1,10 @@
-### Engin Demiroğ hocamızın yazılım geliştirici yetiştirme kampında yaptığımız proje
+## Engin Demiroğ hocamızın yazılım geliştirici yetiştirme kampında yaptığımız proje
 
-### Kampta Yapılanlar
-# C#
-# Web Api
-# N-Tier Architecture
-# Object Oriented Programming
+## Kampta Yapılanlar
+### C#
+### Web Api
+### N-Tier Architecture
+### Object Oriented Programming
 # Clean Code
 Entity Framework Core
 LINQ
