@@ -14,7 +14,6 @@
 ### Generic Repository Design Pattern
 ### Autofac
 ### Aspect Oriented Programming
-### Cross cutting corcerns
 ### DTO
 ### Json Web Token
 ### Caching
